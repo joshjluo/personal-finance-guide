@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'Easy to Understand',
+    imageUrl: 'img/undraw_education_f8ru.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        We provide explanations and examples for financial jargon so you can learn faster and more effectively.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Step-By-Step Approach',
+    imageUrl: 'img/undraw_Setup_wizard_re_nday.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Instead of reading through a bunch of unorganized blog posts, our information is consolidated and organized so it's easy to follow.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'Further Readings',
+    imageUrl: 'img/undraw_online_reading_np7n.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We cite our references for all of our information so you can conduct your own research and learn more.
       </>
     ),
   },
@@ -59,16 +56,17 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      title={`${siteConfig.title}`}
+      description="Learn how to manage your money as a new grad or young professional. Covers financial basics from budgeting to retirement.">
+      <header className={clsx('hero', styles.heroBanner)}>
         <div className="container">
+          <img className={clsx(styles.heroBannerLogo, 'margin-vert--md')} src={useBaseUrl('img/undraw_wallet_aym5.svg')}/>
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
               className={clsx(
-                'button button--outline button--secondary button--lg',
+                'button button--primary button--lg',
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
