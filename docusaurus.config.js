@@ -5,26 +5,25 @@ module.exports = {
   baseUrl: '/personal-finance-guide/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/credit_card.svg',
   organizationName: 'joshjluo',
   projectName: 'personal-finance-guide',
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Personal Finance Guide',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Personal Finance Guide Logo',
+        src: 'img/credit_card.svg',
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
+          to: 'docs',
+          label: 'Guide',
+          position: 'right',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Blog', position: 'right'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/joshjluo/personal-finance-guide',
           label: 'GitHub',
           position: 'right',
         },
@@ -32,52 +31,7 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Joshua Luo. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -85,16 +39,24 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
+          path: 'docs',
+          routeBasePath: 'docs',
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/joshjluo/personal-finance-guide/edit/main/docs',
+          sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true
         },
         blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
+          path: 'blog',
+          routeBasePath: 'blog',
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/joshjluo/personal-finance-guide/edit/main/blog',            
+          blogTitle: 'Financial Docs',
+          blogDescription: '',
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'All our posts',
+          showReadingTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
