@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{84:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/personal-finance-guide/blog/welcome"},{"title":"Hello","permalink":"/personal-finance-guide/blog/hello-world"},{"title":"Hola","permalink":"/personal-finance-guide/blog/hola"}]}')}}]);
