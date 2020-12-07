@@ -6,7 +6,7 @@ module.exports = {
     },
     {
       type: 'doc',
-      id: 'doc1'
+      id: 'banking'
     },
   ],
 };
