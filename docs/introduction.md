@@ -1,6 +1,7 @@
 ---
 id: introduction
 title: Introduction
+slug: /
 ---
 
 Welcome to the Personal Finance Guide! Before diving in, let's go over a brief introduction to make sure you know what you're reading.
