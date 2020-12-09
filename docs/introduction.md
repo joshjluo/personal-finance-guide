@@ -22,3 +22,6 @@ Here are some disclaimers you should be aware of before you read on:
 * **I cannot guarantee that the information in this guide is complete or accurate.** I’ve done my best to consolidate complete and accurate information, but neither I nor this guide is perfect. I do not have an educational background in anything finance related.
 * **I do not take any responsibility for anything you may do based on the information provided in this guide.** There is no guarantee that you will be successful saving, earning, or investing money.
 * **The opinions expressed in this guide are mine alone.** They do not reflect the views of my employer or any other entity.
+
+## Test Your Knowledge
+Before proceeding, take some time to take this [Financial Literacy Quiz](https://www.usfinancialcapability.org/ "Financial Literacy Quiz"). You can also see how you compare to the national average and your state's average. If you can't answer some of these questions, don't worry - this guide was meant to help you learn these basic concepts. If you aced it, hopefully you can still learn something new!
