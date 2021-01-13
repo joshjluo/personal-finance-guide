@@ -8,5 +8,9 @@ module.exports = {
       type: 'doc',
       id: 'banking'
     },
+    {
+      type: 'doc',
+      id: 'credit'
+    },
   ],
 };
