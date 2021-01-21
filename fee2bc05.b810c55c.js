@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{95:function(a){a.exports=JSON.parse('{"allTagsPath":"/personal-finance-guide/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/personal-finance-guide/blog/tags/facebook"}')}}]);
