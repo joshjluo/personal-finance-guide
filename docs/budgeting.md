@@ -41,7 +41,7 @@ Some people budget annually, some budget monthly, and some even budget daily. I'
 
 ### Step 1: Income
 
-First, you'll want to record your after-tax monthly income. Use pay stubs if you have them, but you can also use an [after-tax income calculator](https://www.adp.com/resources/tools/calculators.aspx)] to get an estimate.
+First, you'll want to record your after-tax monthly income. Use pay stubs if you have them, but you can also use an [after-tax income calculator](https://www.adp.com/resources/tools/calculators.aspx) to get an estimate.
 
 If you have other sources of income like money from side hustles or dividends, you should also record it here. If you don't get paid in regular intervals (e.g. every two weeks or bimonthly) or you don't earn the same amount each period, you should estimate how much you make in the worst case and divide over the time period to find your average monthly income. For example, say you drive for Uber or Lyft every once in a while. During the past 6 months, you've earned $3000, but you know you've been driving more than usual lately. If you drove your normal schedule, you'd earn anywhere from $1800 to $2400 over 6 months. Take the lowest estimate and divide by the number of months to get how much you can expect each month in the worst case. So $1800 / 6 = $300 a month.
 
@@ -60,7 +60,7 @@ Some might consider Netflix or Spotify Premium a necessary expense, but don't in
 
 ### Step 3: Emergency Fund
 
-If you don't already have one already, or if you don't have 3 to 6 months of expenses saved up, you should put some money towards an emergency fund. An [emergency fund](https://www.investopedia.com/terms/e/emergency_fund.asp)] is in case of, well, emergencies. Maybe you get laid off or you run into unexpected medical issues. If you already have this much saved, then feel free to skip this, but if you don't or you don't have the recommended amount put away, you should dedicate some money to this fund. You don't need to fill up your emergency in one lump sum, but the sooner you have this set aside, the more financially secure you will be.
+If you don't already have one already, or if you don't have 3 to 6 months of expenses saved up, you should put some money towards an emergency fund. An [emergency fund](https://www.investopedia.com/terms/e/emergency_fund.asp) is in case of, well, emergencies. Maybe you get laid off or you run into unexpected medical issues. If you already have this much saved, then feel free to skip this, but if you don't or you don't have the recommended amount put away, you should dedicate some money to this fund. You don't need to fill up your emergency in one lump sum, but the sooner you have this set aside, the more financially secure you will be.
 
 More on this in a later section.
 
@@ -68,7 +68,7 @@ More on this in a later section.
 
 Now, you'll want to allocate money to pay off any debts you have. If you don't have any, lucky you! If you do, no worries. Remember our conversation about interest? If you want to pay as little interest as possible, you'll want to make at least the minimum payment on all of your debts first. If you have additional money, you should put more money towards your debt. 
 
-There are a couple of strategies when it comes to deciding which of your debts to pay off first: the [debt avalanche](https://www.investopedia.com/terms/d/debt-avalanche.asp)] and the [debt snowball](https://www.investopedia.com/terms/s/snowball.asp)] methods. You can read about the differences [here](https://www.investopedia.com/articles/personal-finance/080716/debt-avalanche-vs-debt-snowball-which-best-you.asp)] if you want a quick run down, but it essentially boils down to: if you want to pay less in total interest, use the avalanche method and pay off higher interest debts first, but if you tend to have trouble sticking to goals without a reward or want to improve your short-term cash flow (but pay more in total), consider the snowball method and pay off the lower interest debts first.
+There are a couple of strategies when it comes to deciding which of your debts to pay off first: the [debt avalanche](https://www.investopedia.com/terms/d/debt-avalanche.asp) and the [debt snowball](https://www.investopedia.com/terms/s/snowball.asp) methods. You can read about the differences [here](https://www.investopedia.com/articles/personal-finance/080716/debt-avalanche-vs-debt-snowball-which-best-you.asp) if you want a quick run down, but it essentially boils down to: if you want to pay less in total interest, use the avalanche method and pay off higher interest debts first, but if you tend to have trouble sticking to goals without a reward or want to improve your short-term cash flow (but pay more in total), consider the snowball method and pay off the lower interest debts first.
 
 More on this in a later section.
 
@@ -94,9 +94,9 @@ Great. Now how do you keep track of all that? There are tools and systems out th
 
 Using an app is probably the easiest way to go about all of this. Reducing the amount of friction it takes to budget really helps you stick to it.
 
-The big names out there include Mint[[https://mint.intuit.com/](https://mint.intuit.com/)], Personal Capital[[https://www.personalcapital.com/](https://www.personalcapital.com/)], and You Need a Budget (YNAB)[[https://www.youneedabudget.com/](https://www.youneedabudget.com/)]. Mint and Personal Capital are free, but YNAB is a subscription service.
+The big names out there include Mint[[https://mint.intuit.com/](https://mint.intuit.com/), Personal Capital[[https://www.personalcapital.com/](https://www.personalcapital.com/), and You Need a Budget (YNAB)[[https://www.youneedabudget.com/](https://www.youneedabudget.com/). Mint and Personal Capital are free, but YNAB is a subscription service.
 
-Another option here is Lunch Money[[https://lunchmoney.app/](https://lunchmoney.app/)] which is also a subscription service. It's created by a solopreneur which is super cool!
+Another option here is Lunch Money[[https://lunchmoney.app/](https://lunchmoney.app/) which is also a subscription service. It's created by a solopreneur which is super cool!
 
 ### Manual
 
