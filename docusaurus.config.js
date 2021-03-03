@@ -9,6 +9,11 @@ module.exports = {
   organizationName: 'joshjluo',
   projectName: 'personal-finance-guide',
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-131844224-2',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
     navbar: {
       title: 'Personal Finance Guide',
       logo: {
