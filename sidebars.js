@@ -16,5 +16,9 @@ module.exports = {
       type: 'doc',
       id: 'budgeting'
     },
+    {
+      type: 'doc',
+      id: 'debt'
+    },
   ],
 };
