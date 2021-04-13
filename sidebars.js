@@ -20,5 +20,9 @@ module.exports = {
       type: 'doc',
       id: 'debt'
     },
+    {
+      type: 'doc',
+      id: 'taxes'
+    }
   ],
 };
