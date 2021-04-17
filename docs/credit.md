@@ -13,13 +13,13 @@ Credit cards are not taking money from any existing accounts you have. You're ac
 
 ## How do credit cards work?
 
-Wow, why not just pay for everything like this and never use my actual money? First of all, it's not free money. You have to pay back what you borrowed. On top of that, you have to pay interest. Remember interest? Interest is the cost of borrowing money, and just like our bank account pays us interest to borrow our money, we pay interest to credit card companies to borrow their money if we don't pay them back in full. This interest rate is called the annual percentage rate (APR) (just like the interest rate. 
+Wow, why not just pay for everything like this and never use my actual money? First of all, it's not free money. You have to pay back what you borrowed. On top of that, you have to pay interest. Remember interest? Interest is the cost of borrowing money, and just like our bank account pays us interest to borrow our money, we pay interest to credit card companies to borrow their money if we don't pay them back in full. This interest rate is called the annual percentage rate (APR) just like the interest rate. 
 
 If you pay back the full amount your borrowed before the end of the month, you won't have to pay any interest. The amount of money you still have to pay back at the end of the month is called your [balance](https://www.investopedia.com/terms/c/credit-card-balance.asp). If you don't pay back this balance in full by the end of each month, you'll have to start paying interest on what you owe. There is generally a grace period in which you can pay your balance before getting charged interest.
 
 ### Example
 
-Let's check out an [example](https://www.nerdwallet.com/article/credit-cards/how-is-credit-card-interest-calculated) If you're not a math person or don't really care to see how this stuff is calculated, feel free to skip the next few paragraphs and just read the TL;DR. However, it might be useful to at least go through an example to understand why you should avoid carrying a balance on your credit card, even if you're never going to actually calculate it yourself (no one really does).
+Let's check out an [example](https://www.nerdwallet.com/article/credit-cards/how-is-credit-card-interest-calculated). If you're not a math person or don't really care to see how this stuff is calculated, feel free to skip the next few paragraphs and just read the TL;DR. However, it might be useful to at least go through an example to understand why you should avoid carrying a balance on your credit card, even if you're never going to actually calculate it yourself (no one really does).
 
 Suppose you sign up for a credit card with an APR of 14% and start out with a $0 balance. You buy $3000 worth of stuff with your credit card at the beginning of March. You make a payment of $500 in the middle of the month. At the end of the month, you still owe $2500. The next month, you make another payment of $600 in the middle of the month and end the month with a $1900 balance. How much interest (extra money aside from the $1900) will you have to pay for the month of April?
 
@@ -82,7 +82,7 @@ Would you rather lend money to someone who borrows small amounts and consistentl
 
 A lender takes on more risk when they give money to someone with a low credit score compared to someone with a high credit score. If a lender thinks you won't be able to pay them back, they're going to charge higher interest rates to help cover that risk of losing their money; to them, some money is better than no money. That means people with lower credit scores end up paying more money than those with higher credit scores. If your credit score isn't good enough, lenders might not even give you the option of borrowing from them. 
 
-How does this affect you? Suppose you have a bad credit score and you want to buy a house. You might have to pay higher interest rates on that borrowed money; if you're score is really terrible, they might not even lend you the money at all. If you want to lease an apartment, the landlord may want to see your credit score to judge how likely you are to pay rent. Same with borrowing money to buy a car. 
+How does this affect you? Suppose you have a bad credit score and you want to buy a house. You might have to pay higher interest rates on that borrowed money; if your score is really terrible, they might not even lend you the money at all. If you want to lease an apartment, the landlord may want to see your credit score to judge how likely you are to pay rent. Same with borrowing money to buy a car. 
 
 Basically, you want a good credit score, and you can only have a credit score if you borrow money. You just need to make sure your borrowing small amounts and paying it back consistently to maintain a good credit score.
 
